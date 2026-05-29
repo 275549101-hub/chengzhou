@@ -1,0 +1,8 @@
+interface:
+  display_name: "姜胡说方法"
+  short_description: "把笔记、PARA和生意想法整理成可执行方案"
+  brand_color: "#2563EB"
+  default_prompt: "Use $jiang-hushuo to turn my Obsidian notes into an executable PARA-based action plan."
+
+policy:
+  allow_implicit_invocation: true
